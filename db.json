@@ -1,28 +1,6 @@
 {
   "projects": [
     {
-      "name": "Antonio Carlos",
-      "budget": "24565",
-      "category": {
-        "id": "1",
-        "name": "JavaScript"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "asasasa",
-      "budget": "15454",
-      "category": {
-        "id": "1",
-        "name": "JavaScript"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "LaTeX Dicas",
       "budget": "5000",
       "category": {
