@@ -6,8 +6,8 @@ import logo from '../../img/logo.png'
 function Navbar(){
     return(
         <nav className={styles.navbar}>
-            <Container>
-                <Link to="/"> <img src={logo} alt='gr'></img> </Link>
+            <Container>                
+                <Link to="/"><img src={logo} alt='gr'></img></Link>
 
                 <ul className={styles.list}>
                     <li className={styles.item}>

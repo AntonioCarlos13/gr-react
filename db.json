@@ -12,11 +12,11 @@
       "id": 3
     },
     {
-      "name": "Joaquim",
-      "budget": "2500",
+      "name": "Joaquim Carlos",
+      "budget": "3650",
       "category": {
-        "id": "2",
-        "name": "Design"
+        "id": "4",
+        "name": "Java"
       },
       "cost": 0,
       "services": [],

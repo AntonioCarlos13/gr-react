@@ -14,6 +14,7 @@
   color: #ffbb33;
   padding: 0.4em;
   margin-bottom: .6em;
+  border-radius: .5em;
 }
 
 .project_details span {
@@ -37,7 +38,7 @@
   text-decoration: none;
   transition: .5s ease;
   border-radius: 15px;
-  max-height: 45px;
+  max-height: 42px;
   font-size: 16px;
   cursor: pointer;
   border: none;
