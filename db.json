@@ -7,8 +7,15 @@
         "id": "1",
         "name": "JavaScript"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 150,
+      "services": [
+        {
+          "name": "Contratar Eletricista",
+          "cost": "150",
+          "description": "Trocar lampada",
+          "id": "b94a373d-7afb-4727-accb-6f63305b703d"
+        }
+      ],
       "id": 3
     },
     {

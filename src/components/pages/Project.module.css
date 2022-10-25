@@ -34,12 +34,12 @@
 .btn{
   background-color: #222;
   color: #fff;
-  padding: .7em 1.3em;
+  padding: 0.7em 1.3em;
   text-decoration: none;
   transition: .5s ease;
-  border-radius: 15px;
-  max-height: 42px;
-  font-size: 16px;
+  border-radius: 5px;
+  max-height: 40px;
+  font-size: 15px;
   cursor: pointer;
   border: none;
 }
