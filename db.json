@@ -13,13 +13,26 @@
     },
     {
       "name": "Joaquim Carlos",
-      "budget": "3650",
+      "budget": "7000",
       "category": {
         "id": "4",
         "name": "Java"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 700,
+      "services": [
+        {
+          "name": "Novo serviço 1",
+          "cost": "200",
+          "description": "Nada",
+          "id": "b923a808-30d0-44ff-b9bc-d0e51be5ccfa"
+        },
+        {
+          "name": "Novo serviço 2",
+          "cost": "500",
+          "description": "tururu",
+          "id": "c4e75ce7-d9ca-42ef-a8be-4d10d37dc4b5"
+        }
+      ],
       "id": 4
     }
   ],
